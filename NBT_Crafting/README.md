@@ -1,5 +1,7 @@
 # [1.16.5] 用 `recipe_unlocked` 实现合成带 NBT 的物品
 
+地址：[GitHub](https://github.com/Muggle2077/Minecraft/blob/tutorials/NBT_Crafting/README.md)，[Gitee](https://gitee.com/muggle2077/minecraft/blob/tutorials/NBT_Crafting/README.md)
+
 ## 原理
 
 原版配方不支持合成带 NBT 的物品。
@@ -111,5 +113,4 @@ scoreboard objectives add muggle dummy
 
 ## 感谢
 
-- [SPGoding](https://github.com/SPGoding) 的 [Data-pack Helper Plus](https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server) 为本文的编写提供了支持；
-- [土球球](https://www.mcbbs.net/?1480882) 的 [MCBBS Markdown To BBCode Converter](https://www.mcbbs.net/thread-779668-1-1.html) 使本文在 MCBBS 的发布成为可能。
+[SPGoding](https://github.com/SPGoding) 的 [Data-pack Helper Plus](https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server) 为本文的编写提供了支持。
