@@ -9,12 +9,12 @@ The branch **datapacks** contains all data packs I made.
 ### Structure
 
 ```
-├─<name>                                // The name of the data pack, like 'Teleport'.
-│  ├─<version>                          // The version of the data pack, like '1.3.4'.
+├─<name>                                // The name of the data pack.
+│  ├─<version>                          // The version of the data pack.
 │  │  ├─datapack.zip                    // The data pack file.
 │  │  └─resourcepack.zip                // The resource pack that should be used meanwhile.
 │  │
-│  └─screenshots                        // All screenshots I took about the data pack.
+│  ├─screenshots                        // All screenshots I took about the data pack.
 |  |  └─<name>.png                      // Each screenshot.
 |  |
 |  └─README.md                          // The introduction of the data pack.
