@@ -1,24 +1,27 @@
-# Minecraft
+# Introduction
 
-The repository **Minecraft** is licensed under the GNU General Public License v3.0.
+English / [简体中文](README.zh-CN.md)
 
-## datapacks
+**Muggle2077/Minecraft** is licensed under the GNU General Public License v3.0.
 
-The branch **datapacks** contains all data packs I made.
+The **datapacks** branch contains all Minecraft data packs I made.
 
-### Structure
+## File structure
 
 ```
-├─<name>                                // The name of the data pack.
-│  ├─<version>                          // The version of the data pack.
-│  │  ├─datapack.zip                    // The data pack file.
-│  │  └─resourcepack.zip                // The resource pack that should be used meanwhile.
+datapacks
+├─<name>                        // The name of a data pack. Each folder contains a data pack.
+│  ├─<version>                  // A version of the data pack. Each folder contains a version of the data pack.
+│  │  ├─datapack.zip            // The data pack file.
+│  │  └─resourcepack.zip        // The resource pack that should be used meanwhile.
 │  │
-│  ├─screenshots                        // All screenshots I took about the data pack.
-|  |  └─<name>.png                      // Each screenshot.
+│  ├─images                     // Images used in the introduction of the data pack.
+|  |  └─<image>
 |  |
-|  └─README.md                          // The introduction of the data pack.
+|  ├─README.zh-CN.md            // Simplified Chinese introduction of the data pack.
+|  └─README.md                  // English introduction of the data pack.
 |
-├─LICENSE
-└─README.md                             // You are reading now.
+├─LICENSE                       // GNU General Public License v3.0.
+├─README.zh-CN.md               // Simplified Chinese edition of what you are reading now.
+└─README.md                     // What you are reading now.
 ```
