@@ -2,9 +2,7 @@
 
 English / [简体中文](README.zh-CN.md)
 
-**Muggle2077/Minecraft** is licensed under the GNU General Public License v3.0.
-
-The **datapacks** branch contains all Minecraft data packs I made.
+**Muggle2077/Minecraft** is licensed under the GNU General Public License v3.0. The repository contains all Minecraft data packs I made.
 
 ## File structure
 
