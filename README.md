@@ -1,6 +1,6 @@
 # Introduction
 
-English / [简体中文](README.zh-CN.md)
+English
 
 **Muggle2077/Minecraft** is licensed under the GNU General Public License v3.0. The repository contains all Minecraft data packs I made.
 
@@ -16,10 +16,8 @@ datapacks
 │  ├─images                // Images used in the introduction of the data pack.
 |  |  └─<image>
 |  |
-|  ├─README.zh-CN.md       // Simplified Chinese introduction of the data pack.
 |  └─README.md             // English introduction of the data pack.
 |
 ├─LICENSE                  // GNU General Public License v3.0.
-├─README.zh-CN.md          // Simplified Chinese edition of what you are reading now.
 └─README.md                // What you are reading now.
 ```
